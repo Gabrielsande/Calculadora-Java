@@ -27,7 +27,7 @@ Este projeto é uma calculadora gráfica desenvolvida em **Java** utilizando a b
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-swing.git
+   git clone https://https://github.com/Gabrielsande/Calculadora-Java.git
 Abra o projeto no NetBeans (ou sua IDE favorita)
 
 Compile e execute a classe CalculadoraJFrame
