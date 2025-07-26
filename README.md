@@ -42,16 +42,12 @@ Impede adicionar mais de um ponto decimal
 
 Verifica se o visor está vazio antes de calcular
 
-CalculadoraSwing/
-├── src/
-│   └── calculadora/
-│       └── CalculadoraJFrame.java
-├── README.md
-└── tela.png (opcional)
+<img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/f5209a7a-e8e8-4eeb-94c5-56e28f00d3f7" />
+
 
 
 👨‍💻 Autor
 Gabriel Santos de Sandes
 Estudante de Técnico em Informática – Colégio ULBRA São Lucas
-📧 Contato: seuemail@exemplo.com
+📧 Contato: gabrielsandes1903@gmail.com
 📘 Projeto educacional para prática com Java e Swing.
