@@ -48,7 +48,7 @@ Verifica se o visor está vazio antes de calcular
 
 ## 👨‍💻 Autor
 
--Gabriel Santos de Sandes
--Estudante de Técnico em Informática – Colégio ULBRA São Lucas
--📧 Contato: gabrielsandes1903@gmail.com
--📘 Projeto educacional para prática com Java e Swing.
+ - Gabriel Santos de Sandes
+ - Estudante de Técnico em Informática – Colégio ULBRA São Lucas
+ - 📧 Contato: gabrielsandes1903@gmail.com
+ - 📘 Projeto educacional para prática com Java e Swing.
