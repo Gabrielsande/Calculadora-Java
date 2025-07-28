@@ -43,22 +43,7 @@ Impede adicionar mais de um ponto decimal
 Verifica se o visor está vazio antes de calcular
 
 <img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/f5209a7a-e8e8-4eeb-94c5-56e28f00d3f7" />
-```
-📦 portfolio-arquitetura/
-├── index.html
-├── style.css
-├── script.js
-├── /img
-│   ├── 14354.jpg
-│   ├── 1686.jpg
-│   ├── 2149065009.jpg
-│   ├── 2170.jpg
-│   ├── 2576.jpg
-│   ├── 7547.jpg
-│   ├── renderizacao-3d-modelo-de-casa.jpg
-│   └── real-estate_18164498.png
-└── README.md
-```
+
 
 ## 👨‍💻 Autor
 
