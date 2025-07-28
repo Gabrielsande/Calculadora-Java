@@ -43,14 +43,16 @@ Impede adicionar mais de um ponto decimal
 Verifica se o visor está vazio antes de calcular
 
 <img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/f5209a7a-e8e8-4eeb-94c5-56e28f00d3f7" />
-
+```
+---
 ## 📁 Estrutura do Projeto
 CalculaoraSwing/
 ├── /src
 │   ├── calculadora
 │       ├── CalculadoraJFrame.java
 └── README.md
-
+---
+```
 
 ## 👨‍💻 Autor
 
