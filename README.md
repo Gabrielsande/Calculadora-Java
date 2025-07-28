@@ -45,6 +45,7 @@ Este projeto é uma calculadora gráfica desenvolvida em **Java** utilizando a b
 
 ## 📁 Estrutura do Projeto
 <img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/f5209a7a-e8e8-4eeb-94c5-56e28f00d3f7" />
+
 ---
 
 ## 👨‍💻 Autor
