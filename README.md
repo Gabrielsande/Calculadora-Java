@@ -37,14 +37,15 @@ Este projeto é uma calculadora gráfica desenvolvida em **Java** utilizando a b
 <img width="531" height="599" alt="image" src="https://github.com/user-attachments/assets/8fd1734a-2ff4-4b99-aaa6-d4d20ea7f23d" />
 
 ## ⚠️ Tratamento de Erros
-Exibe mensagem de erro ao tentar dividir por zero
-Impede adicionar mais de um ponto decimal
+ - Exibe mensagem de erro ao tentar dividir por zero
+ - Impede adicionar mais de um ponto decimal
+ - Verifica se o visor está vazio antes de calcular
 
-Verifica se o visor está vazio antes de calcular
+---
 
 ## 📁 Estrutura do Projeto
 <img width="357" height="174" alt="image" src="https://github.com/user-attachments/assets/f5209a7a-e8e8-4eeb-94c5-56e28f00d3f7" />
-
+---
 
 ## 👨‍💻 Autor
 
